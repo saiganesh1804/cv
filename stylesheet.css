@@ -1,0 +1,125 @@
+body{
+    background-color: #FFFDDE;
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    color: black;
+    margin: auto;
+    margin: 30px 0 0;
+    font-family: "Montserrat", sans-serif;
+}
+h3{
+    color: #B3541E;
+    font-style: sans-serif;
+}
+p{
+    color: black;
+    font-family: 'Hurricane', cursive;
+    font-weight: bold;
+    line-height: 2;
+}
+.my-pic{
+    height: 150px;
+    width: 150px;
+}
+.bottom-container{
+    background-color: #4FBDBA;
+    padding: 5px;
+    margin: auto;
+}
+.nd-container{
+    width: 50%;
+    position: relative;
+    margin: auto;
+}
+.top-container{
+    width: 50%;
+    position: relative;
+    margin: auto;
+}
+.edit-image{
+    height: 150px;
+    width: 150px;
+    float: left;
+    padding-right: 20px;
+}
+.edit-image2{
+    height: 150px;
+    width: 150px;
+    float: right;
+    padding-left: 20px;
+}
+.cloud-image{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 400px;
+}
+.cloud-image2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 400px;
+}
+.social-media{
+    padding: 10px;
+}
+
+.main-frame{
+    width: 50%;
+    position: relative;
+    margin: auto;
+}
+.small-img{
+    width: 20px;
+    height: 20px;
+    padding: 20px 20px 0;
+}
+.small-img:hover{
+    width: 30px;
+    height: 30px;
+}
+.mountain-img{
+    padding-bottom: 30px;
+}
+.side-way{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+ }
+ .side-way:hover{
+    background-color: rgb(167, 164, 164);     
+ }
+.main-div{
+    float: left;
+    position: fixed;
+}
+.user{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    padding: 40px;
+}
+.SIDE-KEYS{
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-top: 59px;
+    margin: auto;
+    font-style: italic;
+    color: white;
+}
+.copyright{
+    color: #FFC600;
+}
+.skills-edit{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border-style: solid;
+    color: rgb(145, 250, 145);
+    border:inset;
+}
+.skills-edit:hover{
+    background-color: rgb(145, 250, 145);
+}
